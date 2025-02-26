@@ -3,14 +3,18 @@ var config = {
     // 句子的长度可以任意， 你可以写十句话， 二十句话都可以
     // 每句话尽量不要超过15个字,不然展示效果可能不太好
     texts: [
-        "Yé thế lại thêm tuổi mới",      //这里,每句话结尾的最后一个逗号必须是英文的哦!! 很重要哦!!
+      "Yé thế lại thêm tuổi mới",      //这里,每句话结尾的最后一个逗号必须是英文的哦!! 很重要哦!!
         "Lại thêm những điều mới",  // 同上...
-        "Ước rằng qua tuổi mới cậu sẽ may mắn hơn",
+        "Chúc qua tuổi mới cậu sẽ may mắn hơn",
         "Thành công hơn trong học tập cũng như công việc",
-        "Ước rằng gia đình gia đình cậu luôn luôn mạnh khỏe",
-        "Ước rằng bạn bè cậu cũng thật nhiều sức khỏe và may mắn và có thể bên cậu lâu dài hơn nữa!",
+        "Chúc gia đình gia đình cậu luôn luôn mạnh khỏe",
+        "Chúc bạn bè cậu cũng thật nhiều sức khỏe",
+        "May mắn và có thể bên cậu lâu dài hơn nữa!",
         "Năm nay tớ không chúc cậu yêu tớ nựa",
-        "Nhưng mà tớ mong khi tớ nói ra câu đó bất kì lúc nào là lúc tớ có mọi thứ",
+        "Nhưng mà tớ mong khi tớ nói ra câu đó ",
+        "Bất kì chỗ nào",
+        "Bất kì ở đâu",
+        "Thì lúc đó tớ mong tớ có tất cả",
         "Và có cậu",
         "Chúc mừng sinh nhật!",
     ],
